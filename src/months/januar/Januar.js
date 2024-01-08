@@ -2,10 +2,12 @@ import React from 'react';
 
 import Art from './elements/Art';
 import Code from './elements/Code';
+import Music from './elements/Music';
+import Start from './elements/Start';
 
 import './Januar.css';
 
-const pages = [<Art/>, <Code />];
+const pages = [<Start/> ,<Art/>, <Code />, <Music/>];
 
 class Januar extends React.Component   
 {
@@ -15,7 +17,7 @@ class Januar extends React.Component
         this.state =
         {
             page:0,
-            max:1
+            max:3
         };
     }
 

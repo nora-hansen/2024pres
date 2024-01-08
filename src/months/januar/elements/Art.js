@@ -19,6 +19,16 @@ function Art()
                             alt="Blå med regn oo"
                             className="artwork"
                             />
+                        <img
+                            src="art/jan/03jan03.png"
+                            alt="Blomster dame"
+                            className="artwork"
+                            />
+                        <img
+                            src="art/jan/06jan01.png"
+                            alt="Tuttifrutti kis"
+                            className="artwork"
+                            />
                     </div>
                     <div class="column">
                         <img
@@ -31,6 +41,11 @@ function Art()
                             alt="Rosa og lilla"
                             className="artwork"
                             />
+                        <img
+                            src="art/jan/04jan01.png"
+                            alt="Blå pia"
+                            className="artwork"
+                            />
                     </div>
                     <div class="column">
                         <img
@@ -41,6 +56,16 @@ function Art()
                         <img
                             src="art/jan/03jan01.png"
                             alt="Veldig veldig gul"
+                            className="artwork"
+                            />
+                        <img
+                            src="art/jan/05jan01.png"
+                            alt="Mikmik"
+                            className="artwork"
+                            />
+                        <img
+                            src="art/jan/06jan02.png"
+                            alt="Mørkt"
                             className="artwork"
                             />
                     </div>
